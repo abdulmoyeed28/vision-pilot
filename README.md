@@ -93,3 +93,14 @@ Thanks to the open-source tools that made this possible:
 - [Streamlit](https://streamlit.io/) – UI interface  
 
 ---
+
+---
+
+🏆 **Awards & Recognition**
+
+<img src="images/certificate_projectexpo.jpg" width="500"/>
+
+🥈 **2nd Prize** – Project Expo 2025  
+Lords Institute of Engineering & Technology  
+Awarded for *VisionPilot* among 60+ competing teams.
+
