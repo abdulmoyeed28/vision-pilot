@@ -67,19 +67,23 @@ streamlit run main.py
 
 VisionPilot uses MediaPipe’s real-time hand tracking to:  
 
-Detect fingertips and hand poses  
-Control the mouse via single-finger gestures  
-Simulate clicks (for games like shooters)  
-Track two-hand distances (for steering-like motion)  
-Gestures are translated into input commands using PyAutoGUI to control applications and games seamlessly.  
+- Detect fingertips and hand poses  
+- Control the mouse via single-finger gestures  
+- Simulate clicks (for games like shooters)  
+- Track two-hand distances (for steering-like motion)  
+- Gestures are translated into input commands using PyAutoGUI to control applications and games seamlessly.  
 
 ---
 
 🏆 **Awards & Recognition**
 
+<img src="images/certificate_projectexpo.jpg" width="500"/>
+
 🥈 **2nd Prize** – Project Expo 2025  
 Lords Institute of Engineering & Technology  
 Awarded for *VisionPilot* among 60+ competing teams.
+
+
 
 ---
 
@@ -93,14 +97,4 @@ Thanks to the open-source tools that made this possible:
 - [Streamlit](https://streamlit.io/) – UI interface  
 
 ---
-
----
-
-🏆 **Awards & Recognition**
-
-<img src="images/certificate_projectexpo.jpg" width="500"/>
-
-🥈 **2nd Prize** – Project Expo 2025  
-Lords Institute of Engineering & Technology  
-Awarded for *VisionPilot* among 60+ competing teams.
 
