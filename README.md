@@ -72,3 +72,24 @@ Control the mouse via single-finger gestures
 Simulate clicks (for games like shooters)  
 Track two-hand distances (for steering-like motion)  
 Gestures are translated into input commands using PyAutoGUI to control applications and games seamlessly.  
+
+---
+
+🏆 **Awards & Recognition**
+
+🥈 **2nd Prize** – Project Expo 2025  
+Lords Institute of Engineering & Technology  
+Awarded for *VisionPilot* among 60+ competing teams.
+
+---
+
+🙌 **Acknowledgements**
+
+Thanks to the open-source tools that made this possible:
+
+- [Google MediaPipe](https://github.com/google/mediapipe) – real-time hand tracking  
+- [OpenCV](https://opencv.org/) – image processing  
+- [PyAutoGUI](https://pyautogui.readthedocs.io/) – simulating input events  
+- [Streamlit](https://streamlit.io/) – UI interface  
+
+---
