@@ -1,0 +1,6 @@
+opencv-python
+streamlit 
+mediapipe 
+pyautogui 
+pynput 
+numpy
